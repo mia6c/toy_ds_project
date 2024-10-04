@@ -2,3 +2,4 @@
 DSCI 100 Class
 
 project creation date : October 4, 2024
+Author: Mia Chau
